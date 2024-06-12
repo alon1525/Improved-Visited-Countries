@@ -26,3 +26,5 @@ The Visited Countries Tracker is a web application that allows users to visualiz
   - **PostgreSQL**: Relational database to store user data and visited countries information.
 
 Enjoy tracking your visited countries with the Visited Countries Tracker! 🌍✨
+![World Map](visited_country_pic.png)
+![World Map](visited_country_pic2.png)
